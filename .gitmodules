@@ -1,0 +1,3 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/PC-11-00/client-MTP-Project
